@@ -1,4 +1,3 @@
-# MLFS-SRFS
 # 2025-Fusion-Enhanced Multi-Label Feature Selection with Sparse Supplementatio
 
 The exponential increase of multi-label data over various domains demands the development of effective
